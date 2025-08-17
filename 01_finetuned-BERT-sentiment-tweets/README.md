@@ -1,6 +1,11 @@
 # Sentiment Analysis with Fine-Tuned BERT
 
-This project demonstrates multi-class sentiment analysis using a fine-tuned BERT model trained on Twitter sentiment data.
+This project demonstrates multi-class sentiment analysis using a fine-tuned BERT model trained on Twitter sentiment data. <br>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KMsiyUNtYv6SjYm0GvOyR_TjNWeVbaQH?usp=sharing)
+
+<br>
+Comments / Suggestions are appreciated!
 
 ## Model Output Examples
 
@@ -13,7 +18,7 @@ This project demonstrates multi-class sentiment analysis using a fine-tuned BERT
 
 Below are some sample screenshots showing the model in action:
 
-![Example 1](images/img1.png)
+![Example 1](images/img1.png) <br>
 ![Example 2](images/img2.png)
 
 ---
