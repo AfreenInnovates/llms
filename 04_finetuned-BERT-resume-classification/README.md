@@ -4,6 +4,9 @@ This project demonstrates **text classification** on resumes using a fine-tuned 
 The model predicts job categories such as Sales, HR, Aviation, Agriculture, and more. In total 24 classes.
 
 https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+<br>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j0wMtqv5iaf8uZzQqg_KhgkOosB5mXe1?usp=sharing)
 
 ---
 
