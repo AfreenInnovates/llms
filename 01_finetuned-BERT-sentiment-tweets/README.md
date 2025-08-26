@@ -2,8 +2,6 @@
 
 This project demonstrates multi-class sentiment analysis using a fine-tuned BERT model trained on Twitter sentiment data. <br>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KMsiyUNtYv6SjYm0GvOyR_TjNWeVbaQH?usp=sharing)
-
 <br>
 Comments / Suggestions are appreciated!
 

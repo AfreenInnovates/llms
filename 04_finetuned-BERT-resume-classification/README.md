@@ -6,8 +6,6 @@ The model predicts job categories such as Sales, HR, Aviation, Agriculture, and 
 https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
 <br>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j0wMtqv5iaf8uZzQqg_KhgkOosB5mXe1?usp=sharing)
-
 ---
 
 ## Model Output Examples
