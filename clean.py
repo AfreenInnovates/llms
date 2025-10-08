@@ -8,4 +8,4 @@ for nb_path in pathlib.Path(".").rglob("*.ipynb"):
         del nb["metadata"]["widgets"]
         with open(nb_path, "w", encoding="utf-8") as f:
             json.dump(nb, f, indent=1, ensure_ascii=False)
-        print(f"✅ Cleaned: {nb_path}")
+        print(f"Cleaned: {nb_path}")
